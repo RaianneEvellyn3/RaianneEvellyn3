@@ -1,7 +1,7 @@
 ### Hi, there! I'm Raianne 👾
 
 - 🔭 I'm currently a programming student and systems developer
-- 👩‍💻 I'm studying Javascript and C% at the moment!
+- 👩‍💻 I'm studying Javascript and C# at the moment!
 - 💬 Ask me about anything. If I don't know, I'll be happy to learn along with you
 
 <div style="display: inline_block"><br>
